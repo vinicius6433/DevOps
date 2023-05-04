@@ -1,0 +1,96 @@
+03-May-2023 00:02:31.832 INFORMAÇÕES [http-nio-8888-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2023 00:02:31.833 INFORMAÇÕES [http-nio-8888-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+03-May-2023 00:02:31.843 INFORMAÇÕES [http-nio-8888-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 00:27:50.678 INFORMAÇÕES [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2023 00:27:50.679 INFORMAÇÕES [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+03-May-2023 00:27:50.679 INFORMAÇÕES [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 00:27:50.684 INFORMAÇÕES [http-nio-8888-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 00:27:50.685 INFORMAÇÕES [http-nio-8888-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+03-May-2023 00:27:51.407 INFORMAÇÕES [http-nio-8888-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+03-May-2023 00:27:51.407 INFORMAÇÕES [http-nio-8888-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks-backend.war
+03-May-2023 00:28:25.251 INFORMAÇÕES [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 00:28:25.254 INFORMAÇÕES [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 00:28:25.256 INFORMAÇÕES [http-nio-8888-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 00:28:25.953 INFORMAÇÕES [http-nio-8888-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 00:28:25.954 INFORMAÇÕES [http-nio-8888-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
+03-May-2023 10:07:13.404 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2023 10:07:13.404 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+03-May-2023 10:07:13.405 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 10:07:13.410 INFORMAÇÕES [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 10:07:13.412 INFORMAÇÕES [http-nio-8888-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+03-May-2023 10:07:14.044 INFORMAÇÕES [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+03-May-2023 10:07:14.044 INFORMAÇÕES [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks-backend.war
+03-May-2023 10:07:43.515 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 10:07:43.517 INFORMAÇÕES [http-nio-8888-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 10:07:43.518 INFORMAÇÕES [http-nio-8888-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 10:07:44.195 INFORMAÇÕES [http-nio-8888-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 10:07:44.195 INFORMAÇÕES [http-nio-8888-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
+03-May-2023 14:15:16.962 INFORMAÇÕES [http-nio-8888-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 14:15:16.967 INFORMAÇÕES [http-nio-8888-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 14:15:16.969 INFORMAÇÕES [http-nio-8888-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+03-May-2023 14:15:17.674 INFORMAÇÕES [http-nio-8888-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+03-May-2023 14:15:17.674 INFORMAÇÕES [http-nio-8888-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks-backend.war
+03-May-2023 14:15:46.042 INFORMAÇÕES [http-nio-8888-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 14:15:46.044 INFORMAÇÕES [http-nio-8888-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 14:15:46.046 INFORMAÇÕES [http-nio-8888-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 14:15:46.659 INFORMAÇÕES [http-nio-8888-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 14:15:46.660 INFORMAÇÕES [http-nio-8888-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
+03-May-2023 14:16:07.135 INFORMAÇÕES [http-nio-8888-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 14:16:07.136 INFORMAÇÕES [http-nio-8888-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 14:16:07.139 INFORMAÇÕES [http-nio-8888-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 14:16:07.757 INFORMAÇÕES [http-nio-8888-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 14:16:07.757 INFORMAÇÕES [http-nio-8888-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
+03-May-2023 16:53:36.109 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2023 16:53:36.109 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+03-May-2023 16:53:36.111 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 16:53:36.118 INFORMAÇÕES [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 16:53:36.121 INFORMAÇÕES [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+03-May-2023 16:53:36.804 INFORMAÇÕES [http-nio-8888-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+03-May-2023 16:53:36.805 INFORMAÇÕES [http-nio-8888-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks-backend.war
+03-May-2023 16:54:04.867 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 16:54:04.869 INFORMAÇÕES [http-nio-8888-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 16:54:04.870 INFORMAÇÕES [http-nio-8888-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 16:54:05.526 INFORMAÇÕES [http-nio-8888-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 16:54:05.527 INFORMAÇÕES [http-nio-8888-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
+03-May-2023 17:00:30.468 INFORMAÇÕES [http-nio-8888-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 17:00:30.470 INFORMAÇÕES [http-nio-8888-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 17:00:30.472 INFORMAÇÕES [http-nio-8888-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+03-May-2023 17:00:31.116 INFORMAÇÕES [http-nio-8888-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+03-May-2023 17:00:31.116 INFORMAÇÕES [http-nio-8888-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks-backend.war
+03-May-2023 17:01:00.090 INFORMAÇÕES [http-nio-8888-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 17:01:00.092 INFORMAÇÕES [http-nio-8888-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 17:01:00.094 INFORMAÇÕES [http-nio-8888-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 17:01:00.714 INFORMAÇÕES [http-nio-8888-exec-24] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 17:01:00.714 INFORMAÇÕES [http-nio-8888-exec-24] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
+03-May-2023 18:29:17.763 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2023 18:29:17.764 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+03-May-2023 18:29:17.764 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 18:29:17.770 INFORMAÇÕES [http-nio-8888-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 18:29:17.773 INFORMAÇÕES [http-nio-8888-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+03-May-2023 18:29:18.471 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+03-May-2023 18:29:18.471 INFORMAÇÕES [http-nio-8888-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks-backend.war
+03-May-2023 18:29:56.476 INFORMAÇÕES [http-nio-8888-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 18:29:56.478 INFORMAÇÕES [http-nio-8888-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 18:29:56.481 INFORMAÇÕES [http-nio-8888-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 18:29:57.292 INFORMAÇÕES [http-nio-8888-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 18:29:57.292 INFORMAÇÕES [http-nio-8888-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
+03-May-2023 23:12:32.069 INFORMAÇÕES [http-nio-8888-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 23:12:32.075 INFORMAÇÕES [http-nio-8888-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 23:12:32.079 INFORMAÇÕES [http-nio-8888-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+03-May-2023 23:12:32.786 INFORMAÇÕES [http-nio-8888-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+03-May-2023 23:12:32.786 INFORMAÇÕES [http-nio-8888-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks-backend.war
+03-May-2023 23:13:04.667 INFORMAÇÕES [http-nio-8888-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 23:13:04.669 INFORMAÇÕES [http-nio-8888-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 23:13:04.671 INFORMAÇÕES [http-nio-8888-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 23:13:05.286 INFORMAÇÕES [http-nio-8888-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 23:13:05.286 INFORMAÇÕES [http-nio-8888-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
+03-May-2023 23:50:03.518 INFORMAÇÕES [http-nio-8888-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 23:50:03.522 INFORMAÇÕES [http-nio-8888-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 23:50:03.523 INFORMAÇÕES [http-nio-8888-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks-backend'
+03-May-2023 23:50:04.153 INFORMAÇÕES [http-nio-8888-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+03-May-2023 23:50:04.153 INFORMAÇÕES [http-nio-8888-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks-backend.war
+03-May-2023 23:50:29.344 INFORMAÇÕES [http-nio-8888-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 23:50:29.345 INFORMAÇÕES [http-nio-8888-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+03-May-2023 23:50:29.346 INFORMAÇÕES [http-nio-8888-exec-35] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+03-May-2023 23:50:29.953 INFORMAÇÕES [http-nio-8888-exec-36] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+03-May-2023 23:50:29.953 INFORMAÇÕES [http-nio-8888-exec-36] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Administrador\Desktop\Selenium-QA\DevOPs\apache-tomcat-8.5.50\webapps\tasks.war
